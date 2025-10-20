@@ -20,3 +20,5 @@ This DIY drone is small in size and can be built using easily available componen
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
 <br>
+
+Copy from: https://github.com/Circuit-Digest/ESP-Drone.git
