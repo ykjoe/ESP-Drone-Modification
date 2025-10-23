@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "loc_BatteryManager")(type "KiCad")(uri "${KIPRJMOD}/library/loc_BatteryManager.kicad_sym")(options "")(descr ""))
+  (lib (name "loc_Sensor")(type "KiCad")(uri "${KIPRJMOD}/library/loc_Sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "loc_Transistors")(type "KiCad")(uri "${KIPRJMOD}/library/loc_Transistors.kicad_sym")(options "")(descr ""))
+  (lib (name "loc_Switch")(type "KiCad")(uri "${KIPRJMOD}/library/loc_Switch.kicad_sym")(options "")(descr ""))
+  (lib (name "loc_Diode")(type "KiCad")(uri "${KIPRJMOD}/library/loc_Diode.kicad_sym")(options "")(descr ""))
+)
